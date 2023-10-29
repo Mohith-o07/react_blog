@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "title": "my 1st blog",
+      "body": "hello there!\nthis is Obi-Wan reporting from Coruscant",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "my 2nd blog",
+      "body": "[DEEP BREATH]\nMaster Kenobi..",
+      "author": "luigi",
+      "id": 2
+    },
+    {
+      "title": "test 1",
+      "body": "this a blog that is being used to test if it's being added to the JSON server.",
+      "author": "eswar",
+      "id": 3
+    },
+    {
+      "title": "omg 2",
+      "body": "sri dhama..",
+      "author": "mohith",
+      "id": 7
+    },
+    {
+      "title": "laptop's time..",
+      "body": "19:19",
+      "author": "eswar",
+      "id": 8
+    }
+  ]
+}
